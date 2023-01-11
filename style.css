@@ -1,0 +1,26 @@
+.heading{
+    width: 100%;
+}
+.mario_image{
+    width: 100%;
+}
+.heading h1{
+    float: left;
+    display: inline;
+    margin-top: 0;
+}
+.heading button{
+    float: right;
+}
+h4{
+    background-color: white;
+    line-height: 2;
+    margin: 0px;
+}
+.model-dialog{
+    width: 90%;
+}
+.instruction_image{
+    display: inline-block;
+    width: 45%;
+}
